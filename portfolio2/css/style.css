@@ -1,0 +1,31 @@
+.navbar a
+{
+  color: #5cbdaa;
+}
+.nav-color
+{
+  background-color: rgba(117, 117, 163,0);
+}
+.navbar a:hover
+{
+  color: #000000;
+}
+.navbar .navbar-brand
+{
+  font-family: 'Pangolin', cursive;
+  font-size: 2em;
+}
+.navbar .navbar-collapse
+{
+  font-size: 1.25em;
+}
+#particles {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
